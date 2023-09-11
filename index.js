@@ -32,7 +32,7 @@ btnEl.addEventListener("click", () => {
     ratingElements.forEach((ratingElement) => {
       ratingElement.classList.remove("active");
     });
-      return;
+      
   }
     
 
